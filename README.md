@@ -1,5 +1,27 @@
-# 💫 About Me:
-## Hi there 👋<br><br>🚀 Hey there! I'm **Kirti Arora**, a passionate **Full Stack Developer** with **2.5+ years of experience** designing and building **scalable, high-performance software solutions**. <br><br>💻 **Tech Stack:** Java | Spring Boot | REST APIs | PostgreSQL | SQL | JavaScript  <br>🛠️ **Expertise:** Full Stack Development | System Design | Data Structures & Algorithms  <br>🔒 **Focus Areas:** Clean Code | Performance Optimization | Security & Reliability  <br><br>### 🌟 What I'm Up To:<br>- 🔭 **Currently working on**: Automated API Documentation Generator.<br>- 🌱 **Currently learning**: Spring Boot and advanced DSA.<br>- 👯 **Looking to collaborate on**: Open-source projects and exciting web applications.<br>- 🤔 **Seeking help with**: Advanced Spring Boot features & React performance optimization.<br>- 💬 **Ask me about**: Full Stack Development, Java, React, and database management.<br><br>### 📬 Let's Connect!<br>📧 **Email:** arorakirti2212@gmail.com  <br>💻 **GitHub:** [Kirti-1](https://github.com/Kirti-1)  <br>🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kirti-arora/)  <br><br>💡 Always eager to explore **new technologies** and contribute to **innovative projects**. Open to **exciting opportunities**—feel free to reach out! 🚀<br><br>
+# 💫 About Me  
+
+### Hi there! 👋  
+
+🚀 Hey, I'm **Kirti Arora**, a passionate **Full Stack Developer** with **2.5+ years of experience** in designing and building **scalable, high-performance software solutions**.  
+
+### 💻 Tech Stack  
+**Languages & Frameworks:** Java | Spring Boot | REST APIs | PostgreSQL | SQL | JavaScript  
+**Expertise:** Full Stack Development | System Design | Data Structures & Algorithms  
+**Focus Areas:** Clean Code | Performance Optimization | Security & Reliability  
+
+### 🌟 What I'm Up To  
+🔭 **Currently working on:** Automated API Documentation Generator  
+🌱 **Currently learning:** Spring Boot & advanced DSA  
+👯 **Looking to collaborate on:** Open-source projects & exciting web applications  
+🤔 **Seeking help with:** Advanced Spring Boot features & React performance optimization  
+💬 **Ask me about:** Full Stack Development, Java, React & databases  
+
+### 📬 Let's Connect!  
+📧 **Email:** [arorakirti2212@gmail.com](mailto:arorakirti2212@gmail.com)  
+💻 **GitHub:** [Kirti-1](https://github.com/Kirti-1)  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kirti-arora/)  
+
+💡 Always eager to explore **new technologies** and contribute to **innovative projects**. Open to **exciting opportunities**—feel free to reach out! 🚀  
 
 
 # 💻 Tech Stack:
